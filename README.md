@@ -9,4 +9,4 @@ This repository contains four files (two R scripts and two data files):
 * flute_tr.csv: For those who do not want to generate a training set, this file contains a ready-to-use training set with 30 instances.
 * flute_test.csv: For those who do not want to generate a test set, this file contains a ready-to-use test set with 1000 instances.
 
-In order to run the FluTE model, the user is referred to [](https://github.com/dlchao/FluTE)
+In order to run the FluTE model, the user is referred to https://github.com/dlchao/FluTE
