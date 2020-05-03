@@ -11,12 +11,12 @@ This repository contains four files (two R scripts and two data files):
 
 As a result, the analyst has two options:
 
-1. The analyst may generate a training and a test set by running FluTE_DataGeneration.r script. Then, s/he must feed these dataset to FluTE_Analysis.r script in order to perform the analysis proposed in the manuscript.
-2. The analyst may directly use the provided training and test set by feeding them to FluTE_Analysis.r script in order to perform the analysis proposed in the manuscript.
+1. The analyst may generate a training and a test set by running FluTE_DataGeneration.r script. Then, s/he must feed these dataset to FluTE_Analysis.r script in order to perform the analysis procedure proposed in the manuscript.
+2. The analyst may directly use the provided training and test set by feeding them to FluTE_Analysis.r script in order to perform the analysis procedure proposed in the manuscript.
 
 ## Reminders and Warnings
 
 * Both script files contain comments to ease the application process.
 * In order to run the FluTE model, the user is referred to https://github.com/dlchao/FluTE
-* The rule extraction phase requires [Gurobi solver](https://www.gurobi.com/). Although it is commercial, Gurobi provides free licence to academics/students through emails with .edu extension if they make their registraion in-campus.
+* The rule extraction phase requires [Gurobi solver](https://www.gurobi.com/). Although it is commercial, Gurobi provides one-year free licence to academics/students through emails with .edu extension if they make their registration in-campus.
 
