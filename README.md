@@ -1,6 +1,6 @@
 # AnalysisofIBMs
 
-Scripts for the paper entitled "Analysis of an Individual-Based Influenza Epidemic Model using Random Forest Metamodels and Adaptive Sequential Sampling" by Edali &amp; Yücel (2020)
+Scripts for the paper entitled ["Analysis of an Individual-Based Influenza Epidemic Model using Random Forest Metamodels and Adaptive Sequential Sampling"](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2763) by Edali &amp; Yücel (2020).
 
 This repository contains four files (two R scripts and two data files):
 
